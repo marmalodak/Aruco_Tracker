@@ -14,8 +14,6 @@ import cv2
 import cv2.aruco as aruco
 import glob
 
-from icecream import ic
-
 
 aruco_dicts = [
     (aruco.DICT_4X4_100,        'DICT_4X4_100'),
